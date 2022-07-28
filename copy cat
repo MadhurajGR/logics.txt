@@ -1,3 +1,6 @@
 hello this is madhu
 git restore
 git reset all
+git revert
+git revert log 1
+
